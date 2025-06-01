@@ -8,6 +8,13 @@ body {
 	--fadeLength: 2s;
 }
 
+.default_bg {
+	background-image: url('../img/home_bg.jpg');
+	background-position: center;  
+	background-size: auto; 
+	background-repeat: no-repeat;
+}
+
 main {
 	margin-top: 64px;
 }
